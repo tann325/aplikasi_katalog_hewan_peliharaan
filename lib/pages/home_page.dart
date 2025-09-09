@@ -12,8 +12,8 @@ class HomePage extends StatefulWidget {
 class _HomePageState extends State<HomePage> {
   final List<Pet> pets = [
     Pet(
-      name: "Mondy",
-      type: "Kucing",
+      name: "kucing",
+      type: "mondy",
       imagePath: "assets/kucing.jpg",
       description: "Mondy adalah kucing yang sangat manja.",
       caretips:
